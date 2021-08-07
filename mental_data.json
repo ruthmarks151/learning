@@ -1,0 +1,1703 @@
+{
+	"title": "Skills Practice: A Home Visit",
+	"intro": { 
+		"mp4": "_/vid/mp4/sg2_dp1_0.mp4", 
+		"vtt": "_/vid/vtt/sg2_dp1_0.vtt", 
+		"img": "_/vid/jpg/sg2_dp1_0.jpg" 
+	},
+	"chapters": [
+		{ 
+			"title": "How do you introduce yourself to the client?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp1_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp1_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp1_1.jpg" 
+							},
+							"title": "Refer to arranged appointment",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>You have introduced yourself and provided the client with information about your role. This is appropriate for the Orientation Phase of the therapeutic nurse-client relationship, as you are meeting Irina for the first time.</p>",
+							"readings": [
+								{
+									"label": "Module 1: Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 1,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp1_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp1_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp1_2.jpg" 
+							},
+							"title": "Express concern for client",
+							"correct": true, 
+							"partial": true, 
+							"feedback": "<p><h4>Reflective Question:</h4><p> What do you need to do first when initiating a therapeutic relationship and starting to build trust with a client?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 0,
+							"nextId": 1
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp1_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp1_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp1_3.jpg"
+							},
+							"title": "Refer to mental health assessment",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Irina’s response reflects the stigmatization of mental health concerns in our society. How could you inform Irina of your role in a more empathetic way?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Essential Capacities for Establishing Therapeutic Relationships",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 0,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp1_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp1_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp1_1.jpg"
+							},
+							"title": "Refer to arranged appointment",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>You have introduced yourself and provided the client with information about your role. This is appropriate for the Orientation Phase of the therapeutic nurse-client relationship, as you are meeting Irina for the first time.</p>",
+							"readings": [
+								{
+									"label": "Module 1: Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 1,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp1_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp1_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp1_3.jpg" 
+							},
+							"title": "Refer to mental health assessment",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Irina’s response reflects the stigmatization of mental health concerns in our society. How could you inform Irina of your role in a more empathetic way?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Essential Capacities for Establishing Therapeutic Relationships",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 0,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Where do you choose to sit?",
+			"decisionPoints": [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp2_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp2_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp2_1.jpg"
+							},
+							"title": "Remain standing",
+							"correct": true,  
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> What seating arrangement will promote active listening as well as maintain your safety? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 1,
+							"nextId": 1
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp2_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp2_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp2_2.jpg" 
+							},
+							"title": "Offer to sit down at the table",
+							"correct": true,  
+							"partial": false,
+							"feedback": "<p>You need to ensure your personal safety when visiting a client at home, particularly when you suspect the presence of another person (as suggested here by the work boots in the hall). The table provides you with an accessible route to the exit, should you need it.</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 2,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp2_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp2_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp2_3.jpg" 
+							},
+							"title": "Ask where to sit",
+							"correct": true, 
+							"partial": true, 
+							"feedback": "<p><h4>Reflective Question:</h4><p> What seating arrangement will promote active listening as well as maintain your safety? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 1,
+							"nextId": 1
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp2_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp2_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp2_4.jpg" 
+							},
+							"title": "Offer to sit down on the couch",
+							"correct": false,  
+							"partial": false, 
+							"feedback": "<p><h4>Reflective Question:</h4><p> If you needed to make a quick exit to maintain your safety, what barriers would you encounter between the couch and the door? How could you avoid these barriers?</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 1,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp2_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp2_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp2_2.jpg" 
+							},
+							"title": "Offer to sit down at the table",
+							"correct": true,  
+							"partial": false,
+							"feedback": "<p>You need to ensure your personal safety when visiting a client at home, particularly when you suspect the presence of another person (as suggested here by the work boots in the hall). The table provides you with an accessible route to the exit, should you need it.</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 2,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp2_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp2_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp2_4.jpg" 
+							},
+							"title": "Offer to sit down on the couch",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> If you needed to make a quick exit to maintain your safety, what barriers would you encounter between the couch and the door? How could you avoid these barriers?</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 1,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "How do you respond to an unexpected person?",
+			"decisionPoints": [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp3_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp3_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp3_1.jpg" 
+							},
+							"title": "Introduce yourself and remain sitting",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p>Joseph has interpreted your response as a challenge to his authority. What action should you have taken instead to maintain your safety as well as Irina's?</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 2,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp3_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp3_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp3_2.jpg" 
+							},
+							"title": "Introduce yourself and move to the exit",
+							"correct": true,  
+							"partial": false,
+							"feedback": "<p>Your personal safety is important in a threatening situation. If you leave, you will be able to get help for Irina as well as maintain your own safety.</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 3,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp3_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp3_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp3_3.jpg" 
+							},
+							"title": "Advocate for Irina",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> The man has interpreted your verbal response as a challenge to his authority. You should not endanger yourself by trying to protect Irina. What action should you have taken instead to maintain your safety as well as Irina’s? </p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 2,
+							"nextId": 0
+						},
+						{ 
+							"id": 3,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp3_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp3_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp3_4.jpg" 
+							},
+							"title": "Wait for Irina's reaction",
+							"correct": true,  
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> What action should you take to maintain your safety as well as Irina’s?</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 2,
+							"nextId": 1
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp3_4.1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp3_4.1.vtt", 
+								"img": "_/vid/jpg/sg2_dp3_4.jpg" 
+							},
+							"title": "Prepare to leave",
+							"correct": true,  
+							"partial": false,
+							"feedback": "<p>Your personal safety is important in a threatening situation. If you leave, you will be able to get help for Irina as well as maintain your own safety.</p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 3,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp3_4.2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp3_4.2.vtt", 
+								"img": "_/vid/jpg/sg2_dp3_4.jpg" 
+							},
+							"title": "Advocate for Irina",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> The man has interpreted your verbal response as a challenge to his authority. You should not endanger yourself by trying to protect Irina. What action should you have taken instead to maintain your safety as well as Irina’s? </p>",
+							"readings": [
+								{
+									"label": "Module 3:  Communication strategies when screening for abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 2,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "You noticed bruises, how do you bring this up with the client?",
+			"decisionPoints": [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp4_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp4_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp4_1.jpg" 
+							},
+							"title": "Tell Irina to get treatment for bruises",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Offering advice is not a therapeutic communication strategy, and may discourage the client from sharing information. What therapeutic communication strategy can you use in this situation? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 3,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp4_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp4_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp4_2.jpg" 
+							},
+							"title": "Ask about the bruises",
+							"correct": true, 
+							"partial": false, 
+							"feedback": "<p>The nurse’s role includes asking questions when abuse is suspected. An open-ended question encourages the client to share her story, while asking for permission to examine the bruises conveys respect for the client. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 4,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp4_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp4_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp4_3.jpg" 
+							},
+							"title": "Ask if Irina received treatment for bruises",
+							"correct": true, 
+							"partial": true, 
+							"feedback": "<p><h4>Reflective Question:</h4><p> What question(s) should you ask your client when you suspect abuse? </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 3,
+							"nextId": 1
+						},
+						{ 
+							"id": 3,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp4_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp4_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp4_4.jpg" 
+							},
+							"title": "Express concern for Irina",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How could you respond to develop trust and encourage Irina to share information? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 3,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp4_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp4_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp4_1.jpg"
+							},
+							"title": "Tell Irina to get treatment for bruises",
+							"correct": false, 
+							"partial": false, 
+							"feedback": "<p><h4>Reflective Question:</h4><p> Offering advice is not a therapeutic communication strategy, and may discourage the client from sharing information. What therapeutic communication strategy can you use in this situation? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 3,
+							"nextId": 1
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp4_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp4_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp4_2.jpg" 
+							},
+							"title": "Ask about the bruises",
+							"correct": true,  
+							"partial": false,
+							"feedback": "<p>The nurse’s role includes asking questions when abuse is suspected. An open-ended question encourages the client to share her story, while asking for permission to examine the bruises conveys respect for the client. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 4,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp4_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp4_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp4_4.jpg" 
+							},
+							"title": "Express concern for Irina",
+							"correct": false,  
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How could you respond to develop trust and encourage Irina to share information? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 3,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "Do you accept a cup of tea?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp5_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp5_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp5_1.jpg" 
+							},
+							"title": "No",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>As you are still in the orientation phase of the relationship, it is better to fully assess the situation before accepting tea from Irina.  At a later point you may accept a cup of tea from her or you may offer to make the tea with Irina.  Sharing a cup of tea has the potential to build the therapeutic relationship  but it is not the best action at this time.</p>",
+							"readings": [
+								{
+									"label": "Module 1, Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 5,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp5_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp5_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp5_2.jpg" 
+							},
+							"title": "Yes",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p>As you are still in the orientation phase of the relationship, it is better to fully assess the situation before accepting tea from Irina.  At a later point you may accept a cup of tea from her or you may offer to make the tea with Irina.  Sharing a cup of tea has the potential to build the therapeutic relationship  but it is not the best action at this time.</p>",
+							"readings": [
+								{
+									"label": "Module 1, Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 0
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "How can you support Irina now?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp6_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp6_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp6_1.jpg" 
+							},
+							"title": "Suggest to call the police",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<h4>Reflective Question:</h4><p>Offering advice is not a therapeutic communication strategy, and may discourage the client from sharing information. What is the nurse’s role regarding a person’s decisions about how to respond to an abusive situation?</p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 5,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp6_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp6_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp6_2.jpg" 
+							},
+							"title": "Inform Irina of her rights and offer to help",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Acknowledging the abuse and offering assistance opens up the possibility of working with the client to address the situation in a way that makes her feel comfortable. </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp6_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp6_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp6_3.jpg" 
+							},
+							"title": "Inform Irina of available resources",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> What do you need to do before you can direct Irina to community resources? </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 5,
+							"nextId": 1
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp6_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp6_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp6_4.jpg" 
+							},
+							"title": "Suggest Irina reconsider the relationship",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Offering advice is not a therapeutic communication strategy, and may discourage the client from sharing information. What is the nurse’s role regarding a person’s decisions about how to respond to an abusive situation? </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 5,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp6_3.1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp6_3.1.vtt", 
+								"img": "_/vid/jpg/sg2_dp6_3.1.jpg" 
+							},
+							"title": "Inform Irina of her rights and offer to help",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Acknowledging the abuse and offering assistance opens up the possibility of working with the client to address the situation in a way that makes her feel comfortable. </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp6_3.2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp6_3.2.vtt", 
+								"img": "_/vid/jpg/sg2_dp6_3.2.jpg" 
+							},
+							"title": "Suggest she reconsiders the relationship",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Offering advice is not a therapeutic communication strategy, and may discourage the client from sharing information. What is the nurse’s role regarding a person’s decisions about how to respond to an abusive situation? </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 5,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "Which response will help with your assessment of Irina?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp7_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp7_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp7_1.jpg" 
+							},
+							"title": "Ask about Joseph and document the answers",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Listening is an important therapeutic communication strategy. How can you complete your assessment without the documentation becoming the focus of the interaction?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp7_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp7_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp7_2.jpg" 
+							},
+							"title": "Ask about Joseph and listen",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Beginning with an open-ended question and listening to the client fosters development of a therapeutic nurse-client relationship and facilitates assessment of a domestic violence situation. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Communication Strategies for Screening for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 7,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp7_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp7_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp7_3.jpg" 
+							},
+							"title": "Ask Irina what would be helpful",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> What do you need to do before you can work with Irina to find ways to be helpful? </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 1
+						},
+						{ 
+							"id": 3,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp7_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp7_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp7_4.jpg" 
+							},
+							"title": "Refer to social worker",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How can you support Irina to determine if referral to a social worker is appropriate for Irina?</p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp7_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp7_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp7_1.jpg" 
+							},
+							"title": "Ask about Joseph and document the answers",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Listening is an important therapeutic communication strategy. How can you complete your assessment without the documentation becoming the focus of the interaction?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 1
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp7_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp7_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp7_2.jpg" 
+							},
+							"title": "Ask about Joseph and listen",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Beginning with an open-ended question and listening to the client fosters development of a therapeutic nurse-client relationship and facilitates assessment of a domestic violence situation. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Communication Strategies for Screening for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 7,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp7_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp7_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp7_4.jpg" 
+							},
+							"title": "Refer to social worker",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How can you support Irina to determine if referral to a social worker is appropriate for Irina?</p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 6,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "What do you say to Irina now?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp8_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp8_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp8_1.jpg" 
+							},
+							"title": "\"What would you want your life to be like?\"",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>You have asked an open-ended question that will help you determine Irina’s goals for herself and how you can support those goals. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication, Three phases of the Therapeutic relationship",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 8,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp8_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp8_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp8_2.jpg" 
+							},
+							"title": "\"You need to make some changes to your life\"",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Offering advice is not a therapeutic communication strategy, and may discourage the client from sharing information. What therapeutic communication strategy can you use in this situation?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 7,
+							"nextId": 1
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp8_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp8_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp8_3.jpg" 
+							},
+							"title": "\"Let's complete this assessment form\"",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How can you complete your assessment without the documentation becoming the focus of the interaction? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 7,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp8_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp8_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp8_1.jpg" 
+							},
+							"title": "\"What would you want your life to be like?\"",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>You have asked an open-ended question that will help you determine Irina’s goals for herself and how you can support those goals. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication, Three phases of the Therapeutic relationship",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 3: Nursing Role in Assessing an Adult for Abuse",
+									"url": "module.html?id=3"
+								}
+							],
+							"nextChapter": 8,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp8_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp8_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp8_3.jpg" 
+							},
+							"title": "\"Let's complete this assessment form\"",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How can you complete your assessment without the documentation becoming the focus of the interaction? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to support therapeutic communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 7,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "How do you respond to Irina’s disclosure?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp9_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp9_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp9_1.jpg" 
+							},
+							"title": "Provide reassurance",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Providing reassurance can be a barrier to further communication. Based on Irina’s previous statement, what should you assess regarding her mental health?</p>",
+							"readings": [
+								{
+									"label": "Module 2: Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 8,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp9_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp9_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp9_2.jpg" 
+							},
+							"title": "Inquire about mood",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>You have identified that Irina may be at risk for depression and that you need to further assess her mood and mental status.</p>",
+							"readings": [
+								{
+									"label": "Module 2, Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 9,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp9_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp9_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp9_3.jpg" 
+							},
+							"title": "Ask Irina how often she cries",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> You have used a closed-ended question to assess one aspect of mental status. How could you use an open-ended question to encourage Irina to share more information?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to Support Therapeutic Communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 2, Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 8,
+							"nextId": 1
+						},
+						{ 
+							"id": 3,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp9_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp9_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp9_4.jpg" 
+							},
+							"title": "Assess mood, sleep and appetite",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> What effect has multiple questions had on your interaction with Irina? What aspect of mental status could you focus on to begin your assessment? </p>",
+							"readings": [
+								{
+									"label": "Module 2, Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 8,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp9_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp9_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp9_2.jpg" 
+							},
+							"title": "Inquire about mood",
+							"correct": true,
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Providing reassurance can be a barrier to further communication. Based on Irina’s previous statement, what should you assess regarding her mental health?</p>",
+							"readings": [
+								{
+									"label": "Module 2, Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 9,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp9_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp9_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp9_4.jpg" 
+							},
+							"title": "Assess mood, sleep and appetite",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p>You have identified that Irina may be at risk for depression and that you need to further assess her mood and mental status.</p>",
+							"readings": [
+								{
+									"label": "Module 2, Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 8,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "How should you respond to gather further data?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp10_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp10_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp10_1.jpg" 
+							},
+							"title": "Discuss sleeping habits",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> You have used a closed-ended question to turn the conversation towards interventions to support sleep. What strategy could help you collect more detailed assessment data? </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to Support Therapeutic Communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 9,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp10_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp10_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp10_2.jpg" 
+							},
+							"title": "Summarize and validate",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Summarizing and validating show Irina that you are listening empathetically, and thus contribute to building trust. This helps Irina to feel comfortable disclosing more information. Asking about how long Irina has been experiencing symptoms is an important part of assessing for depression. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to Support Therapeutic Communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 2: Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 10,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp10_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp10_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp10_3.jpg" 
+							},
+							"title": "Summarize and continue assessment",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> What response could convey empathy and encourage Irina to share more?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to Support Therapeutic Communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 9,
+							"nextId": 1
+						}
+
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp10_3.1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp10_3.1.vtt", 
+								"img": "_/vid/jpg/sg2_dp10_3.1.jpg" 
+							},
+							"title": "Apologize and validate",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Acknowledging errors and validating contribute to building trust. This helps Irina to feel comfortable disclosing more information. </p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to Support Therapeutic Communication",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 10,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp10_3.2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp10_3.2.vtt", 
+								"img": "_/vid/jpg/sg2_dp10_3.2.jpg" 
+							},
+							"title": "Apologize and explain purpose of questions",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p>While acknowledging errors can contribute to building trust, explaining the purpose of the questions focuses on the nurses’ needs, not Irina’s needs, and thus does not support the therapeutic relationship.</p>",
+							"readings": [
+								{
+									"label": "Module 1: Essential capacities for Establishing the Therapeutic Nurse-Client relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 9,
+							"nextId": 1
+						}
+
+					]
+				}
+			]
+		},
+		{ 
+			"title": "Which response would be your priority?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp11_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp11_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp11_1.jpg" 
+							},
+							"title": "Provide reassurance",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Providing reassurance can be a barrier to further communication. Based on Irina’s previous statement, what should you assess regarding her mental health? </p>",
+							"readings": [
+								{
+									"label": "Module 2: Completing a mental status assessment, Depression, Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 10,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp11_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp11_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp11_2.jpg" 
+							},
+							"title": "Assess suicide risk",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Given that Irina may be depressed, it is important to determine if she is at risk for suicide.</p>",
+							"readings": [
+								{
+									"label": "Module 2: Depression, Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 11,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp11_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp11_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp11_3.jpg" 
+							},
+							"title": "Encourage expression of feelings",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Based on Irina’s previous statement, what should you assess regarding her mental health? </p>",
+							"readings": [
+								{
+									"label": "Module 2: Completing a mental status assessment, Depression, Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 10,
+							"nextId": 1
+						},
+						{ 
+							"id": 3,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp11_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp11_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp11_4.jpg" 
+							},
+							"title": "Refer Irina to a doctor",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p>According to Irina’s chart, she does not have a family doctor. Based on Irina’s previous statement, what should you assess regarding her mental health?</p>",
+							"readings": [
+								{
+									"label": "Module 2: Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 10,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp11_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp11_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp11_2.jpg" 
+							},
+							"title": "Assess suicide risk",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Given that Irina may be depressed, it is important to determine if she is at risk for suicide.</p>",
+							"readings": [
+								{
+									"label": "Module 2: Depression, Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 11,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp11_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp11_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp11_4.jpg" 
+							},
+							"title": "Refer Irina to a doctor",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p>According to Irina’s chart, she does not have a family doctor. Based on Irina’s previous statement, what should you assess regarding her mental health?</p>",
+							"readings": [
+								{
+									"label": "Module 2: Completing a mental status assessment, Depression",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 10,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "How do you proceed with this conversation?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp12_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp12_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp12_1.jpg" 
+							},
+							"title": "Express concern for son's safety",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p>At this point, there is no evidence to suggest that Sasha is at risk. If Irina refuses to work with you, how could that put her and her son at risk? Based on Irina’s previous statement, what should you assess regarding her mental health? </p>",
+							"readings": [
+								{
+									"label": "Module 3: Nursing role with suspected child abuse/neglect",
+									"url": "module.html?id=3"
+								},
+								{
+									"label": "Module 2:  Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 11,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp12_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp12_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp12_2.jpg" 
+							},
+							"title": "Ask if Irina has a plan to hurt herself",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Asking if Irina has a plan to hurt herself is an important part of assessment for risk of suicide. In this case, knowing that her child depends on her serves as a protective factor for Irina.</p>",
+							"readings": [
+								{
+									"label": "Module 2:  Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 12,
+							"nextId": 0
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp12_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp12_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp12_3.jpg" 
+							},
+							"title": "Explore Irina’s perception of her situation",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<p>Based on Irina’s previous statement, what should you assess regarding her mental health?</p>",
+							"readings": [
+								{
+									"label": "Module 2:  Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 11,
+							"nextId": 1
+						},
+						{ 
+							"id": 3,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp12_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp12_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp12_4.jpg" 
+							},
+							"title": "Encourage Irina to think positively",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Does this response convey empathy for Irina’s situation? Based on Irina’s previous statement, what do you need to assess regarding her mental health?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to Support Therapeutic Communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 2:  Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 11,
+							"nextId": 0
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp12_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp12_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp12_2.jpg" 
+							},
+							"title": "Ask if Irina has a plan to hurt herself",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>Asking if Irina has a plan to hurt herself is an important part of assessment for risk of suicide. In this case, knowing that her child depends on her serves as a protective factor for Irina.</p>",
+							"readings": [
+								{
+									"label": "Module 2:  Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 12,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp12_4.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp12_4.vtt", 
+								"img": "_/vid/jpg/sg2_dp12_4.jpg" 
+							},
+							"title": "Encourage Irina to think positively",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> Does this response convey empathy for Irina’s situation? Based on Irina’s previous statement, what do you need to assess regarding her mental health?</p>",
+							"readings": [
+								{
+									"label": "Module 1: Strategies to Support Therapeutic Communication",
+									"url": "module.html?id=1"
+								},
+								{
+									"label": "Module 2:  Suicide Risk Assessment",
+									"url": "module.html?id=2"
+								}
+							],
+							"nextChapter": 11,
+							"nextId": 1
+						}
+					]
+				}
+			]
+		},
+		{ 
+			"title": "How do you bring your visit to an end?",
+			"decisionPoints" : [
+				{
+					"id": 0,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp13_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp13_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp13_1.jpg" 
+							},
+							"title": "Instruct client to call if another appointment is needed",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How could you conclude the visit in a way that builds trust and supports the developing therapeutic relationship?</p>",
+							"readings": [
+								{
+									"label": "Module 1:  Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 12,
+							"nextId": 0
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp13_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp13_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp13_2.jpg" 
+							},
+							"title": "Book another appointment to explore resources",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>In two days you will meet with Irina again to discuss community resources. Irina will need continuing support, so offering to meet again conveys commitment to working with her, and  helps to build trust. For personal safety, it would be appropriate to  meet at a local coffee shop.</p>",
+							"readings": [
+								{
+									"label": "Module 1:  Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": -1,
+							"nextId": -1
+						},
+						{ 
+							"id": 2,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp13_3.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp13_3.vtt", 
+								"img": "_/vid/jpg/sg2_dp13_3.jpg" 
+							},
+							"title": "Arrange counselling session",
+							"correct": true, 
+							"partial": true,
+							"feedback": "<h4>Reflective question:</h4><p>What indications are there that a counsellor is needed? Can you provide her with the support she needs? </p>",
+							"readings": [
+								{
+									"label": "Module 1:  Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 12,
+							"nextId": 1
+						}
+					]
+				},
+				{
+					"id": 1,
+					"options": [
+						{ 
+							"id": 0,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp13_1.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp13_1.vtt", 
+								"img": "_/vid/jpg/sg2_dp13_1.jpg" 
+							},
+							"title": "Instruct client to call if another appointment is needed",
+							"correct": false, 
+							"partial": false,
+							"feedback": "<p><h4>Reflective Question:</h4><p> How could you conclude the visit in a way that builds trust and supports the developing therapeutic relationship?</p>",
+							"readings": [
+								{
+									"label": "Module 1:  Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": 12,
+							"nextId": 1
+						},
+						{ 
+							"id": 1,
+							"video": { 
+								"mp4": "_/vid/mp4/sg2_dp13_2.mp4", 
+								"vtt": "_/vid/vtt/sg2_dp13_2.vtt", 
+								"img": "_/vid/jpg/sg2_dp13_2.jpg" 
+							},
+							"title": "Book another appointment to explore resources",
+							"correct": true, 
+							"partial": false,
+							"feedback": "<p>In two days you will meet with Irina again to discuss community resources. Irina will need continuing support, so offering to meet again conveys commitment to working with her, and  helps to build trust. For personal safety, it would be appropriate to  meet at a local coffee shop.</p>",
+							"readings": [
+								{
+									"label": "Module 1:  Three Phases of the Therapeutic Relationship",
+									"url": "module.html?id=1"
+								}
+							],
+							"nextChapter": -1,
+							"nextId": -1
+						}
+					]
+				}
+			]
+		}
+	]
+		
+}

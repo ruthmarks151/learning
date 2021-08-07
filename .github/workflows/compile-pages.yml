@@ -1,0 +1,23 @@
+name: Compile Pages
+on: [push]
+jobs:
+  compile-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - run: npm install --save-dev hbs-cli
+      - run: rm docs/*
+      - run: ./node_modules/.bin/hbs decision.hbs --data mental_data.json --output docs
+      - uses: EndBug/add-and-commit@v7 # You can change this to use a specific version
+        with:
+          add: 'docs'
+          author_name: Compile Pages Action
+          author_email: mail@example.com
+          default_author: github_actions
+          message: 'Compiled pages'
+
+          # The flag used on the pull strategy. Use NO-PULL to avoid the action pulling at all.
+          # Default: '--no-rebase'
+          # pull_strategy: 'NO-PULL or --no-rebase or --no-ff or --rebase'
+          push: true
