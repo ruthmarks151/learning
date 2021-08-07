@@ -7,7 +7,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
       - run: pip install pybars3
-      - run: rm docs/*
+      - run: rm -rf docs/*
       - run: python3 src/produce_docs.py
       - uses: EndBug/add-and-commit@v7 # You can change this to use a specific version
         with:
